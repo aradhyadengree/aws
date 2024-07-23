@@ -2,28 +2,32 @@
 # $\color{orange} \textbf{Introduction To AWS}$
 
 
+**Capital Expenditure:**
+- CapEx refers to the money a company invests in assets like buildings, machinery, or equipment that will be used for a long time
 
+**Operational Expenditure:**
+- This refers to the day-to-day expenses that a company incurs in order to run its business.
+- It includes costs like rent, utilities, wages, office supplies, and other expenses necessary for ongoing business operations.
 
 **Virtualization:**
-Dividing physical server into multiple logical machines using software called Hypervisor
+- Dividing physical server into multiple logical machines using software called Hypervisor
+
 **Hypervisor:**
-it manages multiple os on single host
+- it manages multiple os on single host
 
-
-1. type 1- Bare Metal ->hypervisor directly installed on hardware
-2.type 2- Hosted -> hypervisor installed on host os
+1. type 1- ** Bare Metal:** hypervisor directly installed on hardware
+2. type 2- ** Hosted** -> hypervisor installed on host os
 
 
 **Cloud Computing:**
 
-Cloud computing is a technology that allows users to access and use computer resources (such as servers, storage, databases, networking, software, and more) over the internet.
+- Cloud computing is a technology that allows users to access and use computer resources (such as servers, storage, databases, networking, software, and more) over the internet.
 
 
 
 
-- CapEx stands for Capital Expenditure. CapEx refers to the money a company invests in assets like buildings, machinery, or equipment that will be used for a long time
 
-- OpEx stands for Operational Expenditure. This refers to the day-to-day expenses that a company incurs in order to run its business. It includes costs like rent, utilities, wages, office supplies, and other expenses necessary for ongoing business operations.
+
 
 
 On-Premises Infrastructure:
