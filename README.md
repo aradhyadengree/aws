@@ -1,17 +1,17 @@
 
-# $\color{orange} \textbf{Introduction To AWS}$
+# $$\color{orange} \textbf{Introduction To AWS}$$
 
 
 
 
-**Capital Expenditure:**
+### $\color{red} \textbf{Capital Expenditure:}$
 - CapEx refers to the money a company invests in assets like buildings, machinery, or equipment that will be used for a long time
 
-**Operational Expenditure:**
+### $\color{green} \textbf{Operational Expenditure:}$
 - This refers to the day-to-day expenses that a company incurs in order to run its business.
 - It includes costs like rent, utilities, wages, office supplies, and other expenses necessary for ongoing business operations.
 
-#### On-Premises Infrastructure
+###  $\color{red} \textbf{On-Premises Infrastructure}$
 
 **Location:**
 - Hardware, servers, and equipment are within the company's premises or data center.
@@ -43,8 +43,7 @@
 2. type 2- **Hosted** -> hypervisor installed on host os
 
 
-**Cloud Computing:**
-
+### ### $\color{red} \textbf{On-Premises} \textbf \ vs \textbf{Cloud}$
 - Cloud computing is a technology that allows users to access and use computer resources (such as servers, storage, databases, networking, software, and more) over the internet.
 
 #### On-Premises vs. Cloud Infrastructure
