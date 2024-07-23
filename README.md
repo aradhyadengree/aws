@@ -2,6 +2,8 @@
 # $\color{orange} \textbf{Introduction To AWS}$
 
 
+
+
 **Capital Expenditure:**
 - CapEx refers to the money a company invests in assets like buildings, machinery, or equipment that will be used for a long time
 
@@ -9,42 +11,53 @@
 - This refers to the day-to-day expenses that a company incurs in order to run its business.
 - It includes costs like rent, utilities, wages, office supplies, and other expenses necessary for ongoing business operations.
 
+#### On-Premises Infrastructure
+
+**Location:**
+- Hardware, servers, and equipment are within the company's premises or data center.
+
+**Capital Expenditure:**
+- Requires substantial initial investments for hardware, software, and setup.
+
+**Facilities:**
+- Server rooms
+- Proper cooling mechanisms are required to maintain optimal operating temperatures.
+
+**Maintenance:**
+- The organization is responsible for ongoing maintenance, updates, security, and system upgrades.
+
+**Scalability:**
+- Scalability is limited by the available physical space and the capacity of the on-site hardware.
+
+**Disaster Recovery:**
+- The organization must have a disaster recovery plan in place, which can include backup systems and off-site storage solutions.
+
+
 **Virtualization:**
 - Dividing physical server into multiple logical machines using software called Hypervisor
 
 **Hypervisor:**
 - it manages multiple os on single host
 
-1. type 1- ** Bare Metal:** hypervisor directly installed on hardware
-2. type 2- ** Hosted** -> hypervisor installed on host os
+1. type 1- **Bare Metal:** hypervisor directly installed on hardware
+2. type 2- **Hosted** -> hypervisor installed on host os
 
 
 **Cloud Computing:**
 
 - Cloud computing is a technology that allows users to access and use computer resources (such as servers, storage, databases, networking, software, and more) over the internet.
 
+#### On-Premises vs. Cloud Infrastructure
 
+| **Aspect**             | **On-Premises**                                                            | **Cloud**                                                                            |
+|------------------------|----------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
+| **Location**           | Company premises or data center                                            | Hosted by a cloud provider                                                           |
+| **Capital Expenditure**| High initial investment                                                    | Pay-as-you-go model                                                                  |
+| **Facilities**         | Requires server rooms and cooling                                           | No physical space or cooling needed                                                  |
+| **Maintenance**        | Handled by the organization                                                 | Managed by the provider                                                              |
+| **Scalability**        | Limited by physical space and hardware                                      | Easily scalable                                                                      |
+| **Disaster Recovery**  | Requires a disaster recovery plan                                           | Built-in disaster recovery options                                                   |
 
-
-
-
-
-
-On-Premises Infrastructure:
-
-Location: Hardware, servers, and equipment are within the company's premises or data center.
-
-Capital Expenditure: Requires substantial initial investments for hardware, software, and setup.
-
-Server rooms
-
-Proper Cooling Mechanism required
-
-Maintenance: The organization is responsible for ongoing maintenance, updates, security, and system upgrades.
-
-Scalability: Scalability is limited by the available physical space and the capacity of the on-site hardware.
-
-Disaster recovery
 
 Advantages of Cloud:
 
