@@ -4,7 +4,7 @@
 
 
 
-### $\color{red} \textbf{Capital Expenditure:}$
+### $\color{green} \textbf{Capital Expenditure:}$
 - CapEx refers to the money a company invests in assets like buildings, machinery, or equipment that will be used for a long time
 
 ### $\color{green} \textbf{Operational Expenditure:}$
@@ -43,7 +43,7 @@
 2. type 2- **Hosted** -> hypervisor installed on host os
 
 
-### ### $\color{red} \textbf{On-Premises} \color{green} \textbf{vs} \color{orange} \textbf{Cloud}$
+### ### $\color{red} \textbf{On-Premises} \ \color{green} \ \textbf{vs} \color{orange} \ \textbf{Cloud}$
 - Cloud computing is a technology that allows users to access and use computer resources (such as servers, storage, databases, networking, software, and more) over the internet.
 
 #### On-Premises vs. Cloud Infrastructure
