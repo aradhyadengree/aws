@@ -80,16 +80,6 @@
 
 
 
-Types:
-1.Public ->cloud provider provides the infra ex. Aws, Azure, GCP
-2.Private-> organization itself purchase the infra/hardware
-3.Hybrid->combination of both
-
-IAAS- Infrastructure as a service
-PASS – Platform as service
-SAAS- Software as a service
-
-
 
 
 
