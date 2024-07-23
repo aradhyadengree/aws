@@ -77,6 +77,10 @@
 
 **Automatic Updates and Maintenance:**
 - Cloud providers handle updates and maintenance of the underlying infrastructure, freeing users from these responsibilities and allowing them to focus on their applications.
+  
+![image](https://github.com/user-attachments/assets/6c74f11f-8cac-4820-b04a-1890e1cfc3ba)
+
+
 
 
 
