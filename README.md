@@ -39,8 +39,8 @@
 **Hypervisor:**
 - it manages multiple os on single host
 
-1. type 1- **Bare Metal:** hypervisor directly installed on hardware
-2. type 2- **Hosted** -> hypervisor installed on host os
+1. **Bare Metal:** hypervisor directly installed on hardware
+2. **Hosted** -> hypervisor installed on host os
 
 
 ### $\color{red} \textbf{On-Premises} \ \color{green} \ \textbf{vs} \color{orange} \ \textbf{Cloud}$
@@ -58,7 +58,7 @@
 | **Disaster Recovery**  | Requires a disaster recovery plan                                           | Built-in disaster recovery options                                                   |
 
 
-Advantages of Cloud:
+### $\color{red} \textbf{Advantages of Cloud:}$
 
 Scalability: Cloud computing resources can be easily scaled up or down based on demand. 
 
