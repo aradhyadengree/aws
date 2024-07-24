@@ -28,3 +28,18 @@
 - Configure storage
 - Launch Instance
 
+### Ec2 status check
+- 2/2 --> Instance is Healthy/All Okay
+- 1/2 --> Software Issue
+- 0/2 --> Hardware Issue
+### Nginx Installation Script for Amazon Linux
+```bash
+sudo -i
+yum update -y
+yum install nginx -y
+systemctl start nginx
+systemctl enable nginx
+systemctl status nginx
+curl localhost
+```
+
