@@ -1,4 +1,4 @@
-## $${\color{red} \textbf {AMI - Amazon Machine Image}}$$
+## $${\color{orange} \textbf {AMI - Amazon Machine Image}}$$
 
 - Amazon Machine Images (AMIs) are templates that contain the software configuration
 - (operating system, application server, and applications) required to launch an instance on AWS.
