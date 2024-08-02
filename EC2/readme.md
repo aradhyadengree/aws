@@ -1,7 +1,7 @@
 
-# EC2- Elastic Compute Cloud
+# $${]color{orange} \textbf {EC2- Elastic Compute Cloud}}$$
 
-### Instance Types:
+### $${]color{pink} \textbf {Instance Types:}}$$
 1. General Purpose  ( t series )
 2. Compute optimized ( c series )
 3. Memory Optimized ( r series )
@@ -9,7 +9,7 @@
 5. Accelerated Computing ( p series )
 
 
-### Purchasing Options:
+### $${]color{pink} \textbf {Purchasing Options:}}$$
 1. On Demand
 2. Reserved
 3. Dedicated Host
