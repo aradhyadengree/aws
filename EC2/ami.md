@@ -3,14 +3,14 @@
 - Amazon Machine Images (AMIs) are templates that contain the software configuration
 - (operating system, application server, and applications) required to launch an instance on AWS.
 
-#### $${\color{lightblue} \textbf {Benefits of Using AMIs}}$$
+#### $${\color{purple} \textbf {Benefits of Using AMIs}}$$
 
 1. **Consistency**: Ensures new instances are identical to the original, reducing configuration errors
 2. **Scalability**: Easily launch multiple instances from the same AMI to handle increased traffic
 3. **Backup and Recovery**: Use AMIs as backups for your instances; in case of failure, launch a new instance from the AMI
 4. **Customization**: Tailor AMIs to specific application needs, including pre-installed software and configurations
 
-#### $${\color{lightblue} \textbf {Create an AMI from the Instance}}$$
+#### $${\color{purple} \textbf {Create an AMI from the Instance}}$$
 
 1. **Launch an EC2 instance** with Amazon Linux 
 2. **Connect to the instance** using SSH
@@ -35,7 +35,7 @@
 
 
 
-#### $${\color{lightblue} \textbf {Launch a New Instance from the AMI}}$$
+#### $${\color{purple} \textbf {Launch a New Instance from the AMI}}$$
 
 1. **Find the AMI**
     - Go to the "AMIs" section in the EC2 Dashboard
