@@ -1,4 +1,4 @@
-1.HTTPD [amazon-linux]
+1. Apache / HTTPD [amazon-linux]
 
 ````
 yum update -y
