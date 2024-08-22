@@ -7,8 +7,9 @@ systemctl start httpd
 systemctl enable httpd
 systemctl status httpd
 ````
-**Note:** copy public ip address of an ec2 instance and paste it to browser
-**How to Host CSS template on HTTPD web server**
+- **Note:** copy public ip address of an ec2 instance and paste it to browser
+- **How to Host CSS template on HTTPD web server**
+  
 - Go to below website and use free css template
 ````
 https://www.free-css.com/free-css-templates/page292/grandcoffee
